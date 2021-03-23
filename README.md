@@ -33,4 +33,14 @@ python emotions.py --mode display
 4.The emotion with maximum score is displayed on the screen.
 
 
+# OUTPUT
+
+* Sample output of emotion detection is given below
+
+![image](https://user-images.githubusercontent.com/81229015/112133884-2a1fb680-8bf2-11eb-8cca-4b6fa798169b.png)
+![image](https://user-images.githubusercontent.com/81229015/112134173-723ed900-8bf2-11eb-94fd-f911f2740127.png)
+
+
+
+
 
